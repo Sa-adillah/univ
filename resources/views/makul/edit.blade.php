@@ -31,7 +31,7 @@
                         <div class="form-group">
                             <div class="form-row float-right">
                                 <div class="col">
-                                    <button type="submit" class="btn btn-md btn-primary">SIMPAN</button>
+                                    <button type="submit" class="btn btn-md btn-primary">UPDATE</button>
                                     <a href="{{route('makul')}}" class="btn btn-md btn-danger">BATAL</a>
                                 </div>
                             </div>
